@@ -1,12 +1,12 @@
 {
-  "name": "Queen_Anju",
+  "name": "RED_MOON-MD",
   "version": "4",
-  "description": "A Simple WhatsApp bot created By King-Rashmika",
-  "main": "queen.js",
+  "description": "A Simple WhatsApp bot created By Load-Dilisha",
+  "main": "moon.js",
   "scripts": {
-    "start": "pm2 start queen.js --deep-monitoring --attach --name Queen_Anju",
-    "stop": "pm2 stop Queen_Anju",
-    "restart": "pm2 restart Queen_Anju"
+    "start": "pm2 start queen.js --deep-monitoring --attach --name RED_MOON",
+    "stop": "pm2 stop RED_MOON",
+    "restart": "pm2 restart RED_MOON"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
