@@ -1,6 +1,6 @@
 {
   "name": "RED_MOON-MD",
-  "version": "4",
+  "version": "2.0.0",
   "description": "A Simple WhatsApp bot created By Load-Dilisha",
   "main": "moon.js",
   "scripts": {
