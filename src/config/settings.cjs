@@ -3,7 +3,7 @@ module.exports = {
   "OWNERS": [
     "94754871798@s.whatsapp.net"
   ],
-  "PORT": "3000",
+  "PORT": "8000",
   "AUTOREADSTATUS": true,
   "MODE": "public",
   "BOTNUMBER": "94754871798",
