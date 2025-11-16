@@ -1,12 +1,12 @@
 module.exports = {
   "PREFIX": ".",
   "OWNERS": [
-    "1234567890@s.whatsapp.net"
+    "94754871798@s.whatsapp.net"
   ],
   "PORT": "3000",
   "AUTOREADSTATUS": true,
   "MODE": "public",
-  "BOTNUMBER": "94717775628",
+  "BOTNUMBER": "94754871798",
   "OMDBAPI_KEY": "76cb7f39",
   "READCMD": true,
   "AUTOVOICE": false,
@@ -21,10 +21,10 @@ module.exports = {
   "ANTIDELETE": true,
   "ALLWAYSONLINE": true,
   "MOROCCOBLOCK": true,
-  "OWNERNAME": "MR JANIYA",
-  "NEWSJID": "120363393420637374@g.us",
+  "OWNERNAME": "LOAD DILISHA",
+  "NEWSJID": "120363420588030937@g.us",
   "MOVIEJID": false,
-  "ANIMEJID": "120363367650594508@g.us",
+  "ANIMEJID": "120363420588030937@g.us",
   "AUTOTYPING": false,
   "AUTORECORDING": true,
   "AUTONEWS": false,
@@ -33,6 +33,6 @@ module.exports = {
   "AIMODE": false,
   "BANNED": [],
   "SUDO": [
-    "94717775628"
+    "94754871798"
   ]
 };
